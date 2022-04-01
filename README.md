@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm muhajsexp</h1>
+<h1 align="center">Hi 👋, I'm Muhammad Ashraf</h1>
 <h3 align="center">React, React Native</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=muhajsexp&label=Profile%20views&color=0e75b6&style=flat" alt="muhajsexp" /> </p>
